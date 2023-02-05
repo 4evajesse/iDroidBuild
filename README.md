@@ -8,4 +8,4 @@ CONTROLS
 - Move: Moves drone forward 1 unit in the direction it is facing. Does NOT proceed pass boundary.
 - Rotate Left and Right: Rotates the drone 90 degrees either to the left or to the right.
 - Report: Shows the location of the drone.
-- Attack: Fires a bomb 2 units in front of the drone but does NOT fire on the near of the grid.
+- Attack: Fires a bomb 2 units in front of the drone but does NOT fire while near facing the edge of the grid.
